@@ -1,0 +1,16 @@
+web
+/web
+logs
+/logs
+/mysql
+mysql
+mysql-db
+/mysql-db
+/home/vendor
+/home/.composer/vendor
+/home/.composer/cache
+/home/.composer/.platform.sh/cache
+/home/.drush-backups
+home/.bash_history
+/home/.terminus/cache
+/home/.drush/
